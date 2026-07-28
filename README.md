@@ -1,2 +1,2 @@
-# OG_mult_ind
-Multiple industry overlapping generations modeling experiments
+# Multiple Industry OG
+Multiple industry overlapping generations modeling experiments.

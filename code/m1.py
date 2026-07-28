@@ -28,12 +28,14 @@ n1 = 1.0
 n2 = 0.3
 beta_annual = 0.96
 beta = beta_annual ** (years_per_period)
+print("Beta (per period):", beta)
 sigma = 1.7
 alpha_1 = 1.0
 Z1 = 1.0
 gamma1 = 0.35
 delta1_annual = 0.05
 delta1 = 1 - (1 - delta1_annual) ** (years_per_period)
+print("Delta1 (per period):", delta1)
 p1 = 1.0
 c_min1 = 0.01
 TPI_tol = 1e-9
